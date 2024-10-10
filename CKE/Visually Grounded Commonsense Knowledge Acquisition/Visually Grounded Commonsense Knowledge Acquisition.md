@@ -7,13 +7,13 @@ Code: https://github.com/thunlp/CLEVER
 CKE is a Distant Supervision(DS) problem
 	Contrastive Instance Learning (CIL)
 
-
 # Model
 
 ![[Pasted image 20241010184652.png]]
 # Database
 
-Visual Genome: https://homes.cs.washington.edu/~ranjay/visualgenome/api.html
+[Visual genome](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html) for Commonsense knowledge acquisition(VG-CKE) dataset
+
 
 # Reference
 
