@@ -17,4 +17,7 @@ CKE is a Distant Supervision(DS) problem
 
 # Reference
 
+**Basic Papers**
+	[What Is a Knowledge Representation?](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1029)
+
 [[Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction|CIL]]
