@@ -93,9 +93,11 @@ ConceptNet
 			[Learning common sense through visual abstraction](https://openaccess.thecvf.com/content_iccv_2015/html/Vedantam_Learning_Common_Sense_ICCV_2015_paper.html)
 
 **CLEVER model**
+	Vision language pre-training (VLP)
+	[[Oscar]]
+	[[VinVL]]
 	Distantly Supervised multi-instance learning problem
 	[Solving the multiple instance problem with axis-parallel rectangles](https://www.sciencedirect.com/science/article/pii/S0004370296000343)
 	DS problem
-	[[Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction|CIL]]
+	[[Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction|Markdown:CIL]]
 
-distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \ && curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add - \ && curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list | sudo tee /etc/apt/sources.list.d/nvidia-docker.list
