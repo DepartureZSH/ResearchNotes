@@ -92,12 +92,15 @@ ConceptNet
 			Required extensive human annotation
 			[Learning common sense through visual abstraction](https://openaccess.thecvf.com/content_iccv_2015/html/Vedantam_Learning_Common_Sense_ICCV_2015_paper.html)
 
+![[Pasted image 20241010184652.png#pic_center]]
 **CLEVER model**
 	Vision language pre-training (VLP)
 	[[Oscar]]
 	[[VinVL]]
+	Contrastive Attention
+	[[Transformer]]
 	Distantly Supervised multi-instance learning problem
 	[Solving the multiple instance problem with axis-parallel rectangles](https://www.sciencedirect.com/science/article/pii/S0004370296000343)
 	DS problem
-	[[Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction|Markdown:CIL]]
+	[[Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction|CIL]]
 
