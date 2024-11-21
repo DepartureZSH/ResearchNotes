@@ -45,6 +45,13 @@ It formulates CKE as a distantly supervised multi-instance learning problem
 Goal
 	To understand the semantic interactions in each image of the bag, 
 	then to extract commonsense facts about a pair of query entities 
+
+Specifically, the query and context entities in each image are 
+first encoded by object detectors to obtain a series of visual features $$\{u_1, u_2, . . . , u_n\}$$The visual features and token embeddings of entity tags $$\{t_1, t_2, . . . , t_n\}$$then fed into pre-trained Transformers to obtain deep multimodal hidden representations $$\{h^1_u, h^2_u, . . . , h^n_u , h^1_t, h^2_t , . . . , h^n_t \}$$The image-level entity pair representation is obtained by the concatenation of visual and text hidden representations: $$v_i =[h^s_u; h^o_u; h^s_t ; h^o_t ]$$where 
+	s : subject
+	o : object
+	u : visual features
+	t : entity tags
 #### Contrastive attention mechanism model
 
 Goal
